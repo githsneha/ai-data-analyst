@@ -223,5 +223,8 @@ streamlit run app.py
 - Conversational analytics assistant
 
 ---
+##  AI-Powered Data Analytics Platform
+
+Live Demo: https://ai-powered-data-analysis.streamlit.app
 
 ## ⭐ If you found this project useful, consider giving it a star.
